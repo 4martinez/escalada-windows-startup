@@ -25,11 +25,4 @@ Ejecutar una escalada de privilegios en una máquina Windows usando el método �
 
 ---
 
-## 🧪 Procedimiento
-
-### 1. Acceso inicial
-
-Conexión remota vía RDP usando credenciales de usuario limitado:
-
-```bash
-xfreerdp /u:user /p:qwertY12345 /v:10.0.2.51
+Este proyecto fue realizado como parte de un proceso formativo. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
